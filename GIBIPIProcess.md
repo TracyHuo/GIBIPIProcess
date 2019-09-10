@@ -121,7 +121,7 @@
 * **结果**：    
 &ensp;&ensp;&ensp;&ensp;   
 &ensp;&ensp;&ensp;&ensp;   
-![image](https://github.com/TracyHuo/GIBIPIProcess/blob/master/Image/Origin.PNG);  
+![image](https://github.com/TracyHuo/GIBIPIProcess/blob/master/Image/origin.PNG);  
 &ensp;&ensp;&ensp;&ensp;   
 &ensp;&ensp;&ensp;&ensp;   
 &ensp;&ensp;&ensp;&ensp;以GI指标为例：  
