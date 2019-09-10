@@ -1,7 +1,7 @@
 # 目录
 
 * [一. 原始数据](#一--原始数据)  
-* [二. 宏MACRO ReadGIBIPI 导入excel并将GIBIPI分别存放在三张表中](#二--宏MACRO ReadGIBIPI 导入excel并将GIBIPI分别存放在三张表中)   
+* [二. 宏ReadGIBIPI导入excel并将GIBIPI分别存放在三张表中](#二--宏ReadGIBIPI导入excel并将GIBIPI分别存放在三张表中)   
 * [三. SAS操作过程与结果](#三--SAS操作过程与结果)   
     * [1. 录入原始数据](#1--录入原始数据)   
     * [2. 两因素方差分析 GLM](#2--两因素方差分析-GLM)  
@@ -18,10 +18,10 @@
 
 # 一  原始数据  
 &ensp;&ensp;&ensp;&ensp;牙龈炎临床试验中GIBIPI指标原始excel数据如下：Origin.xlsx  
-![image](https://github.com/TracyHuo/GIBIPIProcess/edit/master/GIBIPIProcess/Image/1.PGN);  
+![image](https://github.com/TracyHuo/GIBIPIProcess/blob/master/Image/1.PNG);  
 &ensp;&ensp;&ensp;&ensp;   
 &ensp;&ensp;&ensp;&ensp;   
-# 二  宏MACRO ReadGIBIPI 导入excel并将GIBIPI分别存放在三张表中  
+# 二  宏ReadGIBIPI导入excel并将GIBIPI分别存放在三张表中  
 * **代码**：   
 /****************************************************************************
 宏ReadGIBIPI的作用是读取外部excel数据集，然后将数据分隔成GI,BI,PI三个数据集。
