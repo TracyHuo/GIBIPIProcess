@@ -2,7 +2,7 @@
 
 * [一. 原始数据](#一--原始数据)  
 * [二. 宏ReadGIBIPI导入excel并将GIBIPI分别存放在三张表中](#二--宏ReadGIBIPI导入excel并将GIBIPI分别存放在三张表中)   
-* [三. 宏ProGIBIPI对单个GI/BI/PI数据集进行处理](#三--宏ProGIBIPI对单个GI/BI/PI数据集进行处理)    
+* [三. 宏ProGIBIPI对单个GIBIPI数据集进行处理](#三--宏ProGIBIPI对单个GIBIPI数据集进行处理)    
 * [四. 将GIBIPI结果综合至一张表](#四--将GIBIPI结果综合至一张表)  
  
     
@@ -128,7 +128,7 @@
 &ensp;&ensp;&ensp;&ensp;      
 &ensp;&ensp;&ensp;&ensp;    
 &ensp;&ensp;&ensp;&ensp;   
-# 三  宏ProGIBIPI对单个GI/BI/PI数据集进行处理   
+# 三  宏ProGIBIPI对单个GIBIPI数据集进行处理   
 &ensp;&ensp;&ensp;&ensp;   
 &ensp;&ensp;&ensp;&ensp;    
 * **代码**：   
