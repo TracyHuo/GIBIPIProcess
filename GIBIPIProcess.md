@@ -120,6 +120,10 @@
 &ensp;&ensp;&ensp;&ensp;    
 * **结果**：    
 &ensp;&ensp;&ensp;&ensp;   
+&ensp;&ensp;&ensp;&ensp;   
+![image](https://github.com/TracyHuo/GIBIPIProcess/blob/master/Image/Origin.PNG);  
+&ensp;&ensp;&ensp;&ensp;   
+&ensp;&ensp;&ensp;&ensp;   
 &ensp;&ensp;&ensp;&ensp;以GI指标为例：  
 &ensp;&ensp;&ensp;&ensp;GI  
 &ensp;&ensp;&ensp;&ensp;  
