@@ -120,6 +120,7 @@
 &ensp;&ensp;&ensp;&ensp;    
 * **结果**：    
 &ensp;&ensp;&ensp;&ensp;   
+&ensp;&ensp;&ensp;&ensp;原始数据集origin  
 &ensp;&ensp;&ensp;&ensp;   
 ![image](https://github.com/TracyHuo/GIBIPIProcess/blob/master/Image/origin.PNG);  
 &ensp;&ensp;&ensp;&ensp;   
