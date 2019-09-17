@@ -13,5 +13,7 @@
 ![image](https://github.com/TracyHuo/GIBIPIProcess/blob/master/Image/result.PNG);  
 &ensp;&ensp;&ensp;&ensp;   
 &ensp;&ensp;&ensp;&ensp;   
+详细 SAS MACRO 代码见 GIBIPIProcess.md 文档。  
+---------------------------------------  
 
 
